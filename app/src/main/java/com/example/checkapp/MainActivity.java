@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void shaveButtonClick(View view) {
-        Intent mIntent = new Intent(getApplicationContext(), ShaveActivity.class);
+        Intent mIntent = new Intent(MainActivity.this, ShaveActivity.class);
         startActivity(mIntent);
     }
 

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CheckApp</string>
+    <string name="ShaveButton">면도</string>
+    <string name="ToothBrushButton">칫솔</string>
 </resources>
